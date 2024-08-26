@@ -1,0 +1,1 @@
+Hello, I am Riley! I am obviously a computer science major with a particular interest in software development. However, I am still quite confused on how github works especially in a classroom.
